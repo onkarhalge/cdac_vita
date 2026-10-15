@@ -1,0 +1,4 @@
+echo "Good Morning"
+Name: Yash Patil
+gmail: abc@gmail.com
+address: sm vits
